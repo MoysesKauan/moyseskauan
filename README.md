@@ -1,7 +1,8 @@
 ### Welcome to my GitHub👾!!
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moyseskauan&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyseskauan&layout=compact)](https://github.com/moyseskauan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=moyseskauan&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="html5" height="50" width="130" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -16,4 +17,3 @@
 <div> 
   <a href="https://github.com/MoysesKauan" target="_blank"><img height="50" width="130" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kauan-moys%C3%A9s-silva-89a18a233/" target="_blank"><img height="50" width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
