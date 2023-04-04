@@ -8,6 +8,7 @@
   <img align="center" alt="css3" height="50" width="130" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="javascript" height="50" width="130" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="react-js" height="50" width="130" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.canva.com/design/DAFfGYkjwQQ/uvhFtMGWa0e_f3BB4EdZpg/edit?utm_content=DAFfGYkjwQQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 ##
 
