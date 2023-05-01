@@ -1,6 +1,6 @@
 ### Welcome to my GitHub👾!!
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyseskauan&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyseskauan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ##
 <div style="display: inline_block"><br>
