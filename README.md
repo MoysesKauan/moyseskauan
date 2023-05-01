@@ -7,7 +7,7 @@
 <sub>My social networks🦾💻 
   <br>  
 <div> 
-  [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+  [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kauan-moys%C3%A9s-silva-89a18a233/)
   <a href="https://www.linkedin.com/in/kauan-moys%C3%A9s-silva-89a18a233/" target="_blank"><img height="50" width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
