@@ -7,7 +7,7 @@
 
 <div align="left">
   <h3>Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/kauanmoyséssilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/kauan-moys%C3%A9s-silva-89a18a233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
  ### Main skills:
