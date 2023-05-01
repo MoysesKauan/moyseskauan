@@ -2,7 +2,7 @@
 ##
 <div align="center">  
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MoysesKauan&show_icons=true&count_private=true&hide_border=true&title_color=6C9BCF&icon_color=A6D0DD&text_color=F1F6F9&bg_color=0d1117" alt="Kauan github stats" /> 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoysesKauan&layout=compact&hide_border=true&title_color=6C9BCF&text_color=F1F6F9&bg_color=0d1117" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoysesKauan&layout=compact&hide_border=true&title_color=6C9BCF&text_color=F1F6F9&bg_color=0d1117" />
 </div>
 
 <div align="left">
