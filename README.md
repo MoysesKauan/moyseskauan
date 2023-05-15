@@ -1,8 +1,8 @@
 ### Welcome to my GitHub👾!!
 ##
 <div align="center">  
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MoysesKauan&show_icons=true&count_private=true&hide_border=true&title_color=6C9BCF&icon_color=A6D0DD&text_color=F1F6F9&bg_color=0d1117" alt="Kauan github stats" /> 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoysesKauan&layout=compact&hide_border=true&title_color=6C9BCF&text_color=F1F6F9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MoysesKauan&show_icons=true&count_private=true&hide_border=true&title_color=9CA777&icon_color=9CA777&text_color=c9d1d9&bg_color=0d1117" alt="Kauan Moysés github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoysesKauan&layout=compact&hide_border=true&title_color=9CA777&text_color=9CA777&bg_color=0d1117" />
 </div>
 
 <div align="left">
@@ -20,4 +20,4 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6C9BCF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9CA777&height=120&section=footer"/>
