@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/kauan-moys%C3%A9s-89a18a233/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin https://skillicons.dev"></a> </div>
 
  ### Main skills👦🏻:
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,php,laravel,nodejs,postgresql,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,php,laravel,js,nodejs,postgresql,mysql)](https://skillicons.dev)
 
 ### Studying in this moment🕵🏻:
 [![Studying](https://skillicons.dev/icons?i=laravel,nodejs,)](https://skillicons.dev)
