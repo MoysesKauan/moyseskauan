@@ -5,7 +5,7 @@
 </div>
 
  ### Main skills👦🏻:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,vue,nodejs,wordpress,sql,mysql,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,vue,nodejs,wordpress,mysql,)](https://skillicons.dev)
 
 ### Studying in this moment🕵🏻:
 [![Studying](https://skillicons.dev/icons?i=laravel,symfony,nodejs,postgres)](https://skillicons.dev)
