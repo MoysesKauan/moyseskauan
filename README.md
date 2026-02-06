@@ -1,4 +1,4 @@
-# Hallo, ich bin Kauan! 🧑🏻🖥
+# Hallo, ich bin Kauan! 🧑🏻💻
 
 **Full-Stack-Entwickler 🐘** mit Expertise in Web-Systemarchitektur und technischer Leitung. In der Agentur, in der ich tätig bin, bin ich für die gesamte technologische Entscheidungsfindung verantwortlich – von der Auswahl des idealen Tech-Stacks über die Lieferung bis hin zur Terminplanung, Full-Stack-Entwicklung und Teambetreuung.
 
