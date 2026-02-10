@@ -1,75 +1,75 @@
-# Hallo, ich bin Kauan! 🧑🏻💻
+# Hello, I'm Kauan! 🧑🏻💻
 
-**Full-Stack-Entwickler 🐘** mit Expertise in Web-Systemarchitektur und technischer Leitung. In der Agentur, in der ich tätig bin, bin ich für die gesamte technologische Entscheidungsfindung verantwortlich – von der Auswahl des idealen Tech-Stacks über die Lieferung bis hin zur Terminplanung, Full-Stack-Entwicklung und Teambetreuung.
+**Full-Stack Developer 🐘** with expertise in web system architecture and technical leadership. In the agency where I work, I am responsible for all technological decision-making — from selecting the ideal tech stack to delivery, scheduling, full-stack development, and team coordination.
 
-Meine Erfahrung umfasst **vollständige Projektarchitektur**: Ich wähle Technologien (Laravel/React.js/Vue.js für robuste Anwendungen, Bootstrap, Vanilla JavaScript, PHP WordPress für agile Lösungen), setze realistische Fristen, baue RESTful-APIs, implementiere optimierte Datenbanken und orchestriere Deployments in Cloud-Umgebungen. Ich verwandle komplexe Anforderungen in skalierbare Systeme und priorisiere dabei stets Performance, Sicherheit und bewährte Coding-Praktiken.
+My experience includes **complete project architecture**: I choose technologies (Laravel/React.js/Vue.js for robust applications, Bootstrap, Vanilla JavaScript, PHP WordPress for agile solutions), set realistic deadlines, build RESTful APIs, implement optimized databases, and orchestrate deployments in cloud environments. I transform complex requirements into scalable systems, always prioritizing performance, security, and proven coding practices.
 
 ---
 
-## 🛠️ Tech-Stack & Werkzeuge
+## 🛠️ Tech Stack & Tools
 
-### Architektur & Entwicklung 👨‍💻:
+### Architecture & Development 👨‍💻:
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,jquery,vue,nodejs,wordpress,mysql,git)](https://skillicons.dev)
 
-### Ständige Verbesserung 📚:
+### Continuous Improvement 📚:
 [![Studying](https://skillicons.dev/icons?i=laravel,symfony,nodejs,postgres,react,typescript)](https://skillicons.dev)
 
 ---
 
-## 📚 Technische Bibliothek & Inspirationen
+## 📚 Technical Library & Inspirations
 
-*Was ich lese, um mich kontinuierlich als Entwickler und technischer Leiter weiterzuentwickeln:*
+*What I read to continuously evolve as a developer and technical leader:*
 
-### 🧠 **Aktuell am Lesen**
+### 🧠 **Currently Reading**
 - **"Clean Architecture"** - *Robert C. Martin*  
-  *Vertiefung in Softwarearchitekturprinzipien für nachhaltigere Projekte*
+  *Deep dive into software architecture principles for sustainable projects*
 - **"Domain-Driven Design"** - *Eric Evans*  
-  *Verständnis dafür, wie komplexe Systeme aus der Geschäftsdomäne modelliert werden*
+  *Understanding how complex systems are modeled from the business domain*
 
-### ✅ **Abgeschlossen (Highlights)**
+### ✅ **Completed (Highlights)**
 - **"The Pragmatic Programmer"** - *David Thomas & Andrew Hunt*  
-  *Hat meinen Ansatz zu professioneller Verantwortung und kontinuierlichem Lernen verändert*
+  *Changed my approach to professional responsibility and continuous learning*
 - **"Refactoring: Improving the Design of Existing Code"** - *Martin Fowler*  
-  *Fundamental für meine Praxis des sicheren und systematischen Refaktorings*
+  *Fundamental for my practice of safe and systematic refactoring*
 - **"PHP Objects, Patterns, and Practice"** - *Matt Zandstra*  
-  *Ausgezeichnet, um fortgeschrittene OOP und Patterns im PHP-Ökosystem zu beherrschen*
+  *Excellent for mastering advanced OOP and patterns in the PHP ecosystem*
 - **"JavaScript: The Good Parts"** - *Douglas Crockford*  
-  *Hilft, das Wesentliche vom Überflüssigen in JavaScript zu trennen*
+  *Helps separate essential JavaScript from unnecessary complexity*
 
-### 📖 **Auf der Leseliste**
+### 📖 **Reading List**
 - **"Designing Data-Intensive Applications"** - *Martin Kleppmann*
 - **"The Manager's Path"** - *Camille Fournier*
 - **"Building Microservices"** - *Sam Newman*
 
-*Empfehlungen sind immer willkommen! 👨‍💻*
+*Recommendations are always welcome! 👨‍💻*
 
 ---
 
-## 🚀 Hervorgehobene Projekte
+## 🚀 Featured Projects
 
-### 🔥 [Komplettes Managementsystem](https://github.com/MoysesKauan/nome-do-projeto)
-Full-Stack-Architektur mit Laravel + Vue.js für Unternehmensmanagement. Enthält Authentifizierungsmodule, Echtzeitberichte, dokumentierte REST-API und Administrations-Dashboard.
+### 🔥 [Complete Management System](https://github.com/MoysesKauan/nome-do-projeto)
+Full-stack architecture with Laravel + Vue.js for enterprise management. Includes authentication modules, real-time reports, documented REST API, and admin dashboard.
 
 **Stack:** Laravel 10, Vue 3, MySQL, Redis, Docker, AWS EC2
 
 ### ⭐ [High-Performance E-Commerce](https://github.com/MoysesKauan/outro-projeto)
-Verkaufsplattform mit angepasstem WordPress + React Frontend. SEO-optimiert, mit integriertem Payment-Gateway und erweitertem Cache-System.
+Sales platform with customized WordPress + React frontend. SEO-optimized, integrated payment gateway, and advanced caching system.
 
-**Stack:** WordPress als Headless CMS, React, WooCommerce API, PostgreSQL, Varnish Cache
+**Stack:** WordPress as Headless CMS, React, WooCommerce API, PostgreSQL, Varnish Cache
 
-### 🏗️ [Microservices-API](https://github.com/MoysesKauan/outro-projeto)
-Modulare Architektur für skalierbare Anwendungen mit JWT-Authentifizierung, asynchronen Queues und vollständiger Swagger-Dokumentation.
+### 🏗️ [Microservices API](https://github.com/MoysesKauan/outro-projeto)
+Modular architecture for scalable applications with JWT authentication, asynchronous queues, and full Swagger documentation.
 
 **Stack:** Node.js + Express, MongoDB, RabbitMQ, JWT, Docker Compose
 
 ---
 
-## 📈 Arbeitsmethodik
+## 📈 Work Methodology
 
 ```mermaid
 graph LR
-    A[Anforderungsanalyse] --> B[Stack-Auswahl]
-    B --> C[Sprint-Planung]
-    C --> D[Full-Stack-Entwicklung]
-    D --> E[Tests & Deployment]
-    E --> F[Monitoring & Optimierung]
+    A[Requirements Analysis] --> B[Stack Selection]
+    B --> C[Sprint Planning]
+    C --> D[Full-Stack Development]
+    D --> E[Testing & Deployment]
+    E --> F[Monitoring & Optimization]
