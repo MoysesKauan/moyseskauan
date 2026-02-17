@@ -35,6 +35,9 @@ My experience includes **complete project architecture**: I choose technologies 
   *Excellent for mastering advanced OOP and patterns in the PHP ecosystem*
 - **"JavaScript: The Good Parts"** - *Douglas Crockford*  
   *Helps separate essential JavaScript from unnecessary complexity*
+  - **"Learning SQL: Generate, Manipulate, and Retrieve Data"** - *Alan Beaulieu*  
+  *Guides you from beginner to advanced SQL with practical, hands-on examples*
+
 
 ### 📖 **Reading List**
 - **"Designing Data-Intensive Applications"** - *Martin Kleppmann*
